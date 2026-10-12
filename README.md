@@ -105,8 +105,8 @@ Install the following before running the project:
 Replace `YOUR_USERNAME` with your GitHub username after publishing the repository.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/StockWise.git
-cd StockWise
+git clone https://github.com/Shreyavk28/StockWise-Smart-Inventory-Sales-Manager.git
+cd StockWise-Smart-Inventory-Sales-Manager
 ```
 
 ### 2. Set up the backend
