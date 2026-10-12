@@ -286,9 +286,9 @@ Potential enhancements include:
 
 Computer Science and Engineering
 
-GitHub: [Add your GitHub profile URL]
+GitHub: [github.com/Shreyavk28]
 
-LinkedIn: [Add your LinkedIn profile URL]
+LinkedIn: [https://www.linkedin.com/in/shreya-vk-softwareengineer/]
 
 ## License
 
